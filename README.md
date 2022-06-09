@@ -1,0 +1,6 @@
+- 👋 Hi, I’m John Kyalo. This is my public repository.
+- 👀 I’m interested in everything Python(Django) and Full Stack Web Development.
+-       I also do data analysis and visualization.
+- 🌱 I’m currently learning React and Vue Js frameworks.
+- 💞️ I’m looking to collaborate on Web development.
+- 📫 You can reach me right here of via email elytte.ky@gmail.com
